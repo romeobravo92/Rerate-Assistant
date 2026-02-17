@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+
+# Local env (contains API keys - do not commit)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.DS_Store
+
+# Android (web-only focus)
+android
